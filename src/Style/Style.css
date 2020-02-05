@@ -1,0 +1,33 @@
+.eng{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.engBody{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.thai{
+    font-family: 'Prompt', sans-serif;
+    
+}
+.h1{
+    font-size: 3.052em;
+}
+.h2{
+    font-size: 1.953em;
+}
+.mainOrange{
+    color: #FAA423;
+}
+.slick-prev{
+    left: 0;
+    margin: 10px;
+}
+
+.slick-next{
+    right: 0;
+    margin: 10px;
+    color:  #FAA423;
+}
+.button1{
+    color-adjust: white;
+}
